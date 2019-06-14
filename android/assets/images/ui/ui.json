@@ -1,0 +1,24 @@
+{
+
+  com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+    new-game: { over: new-game-down, down: new-game-down, up: new-game-up },
+    exit: { over: exit-down, down: exit-down, up: exit },
+    main-menu: { over: main-menu, down: main-menu, up: main-menu },
+    back-to-game: { over: back-to-game, down: back-to-game, up: back-to-game },
+    cell: { over: cell, down: cell, up: cell}
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+    cell: { over: cell, down: cell, up: cell}
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Image: {
+    background: {
+      drawable: pixel_background_good
+    },
+    pause-panel: {
+      drawable: pause-panel
+    },
+    dirt-tile: {
+      drawable: brick_red
+    }
+  }
+}

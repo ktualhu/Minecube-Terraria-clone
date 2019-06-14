@@ -1,0 +1,493 @@
+
+sprites.pack.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+empty
+  rotate: false
+  xy: 2, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+grass1
+  rotate: false
+  xy: 2, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+grass2
+  rotate: false
+  xy: 132, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+grass3
+  rotate: false
+  xy: 2, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+grass4
+  rotate: false
+  xy: 132, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+greystone
+  rotate: false
+  xy: 262, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+greystone_ruby
+  rotate: false
+  xy: 132, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 262, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ground_grass
+  rotate: false
+  xy: 392, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ground_gravel
+  rotate: false
+  xy: 262, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hollow
+  rotate: false
+  xy: 392, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hollow_torch_center
+  rotate: false
+  xy: 522, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hollow_torch_left
+  rotate: false
+  xy: 392, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hollow_torch_right
+  rotate: false
+  xy: 522, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+leaves_transparent
+  rotate: false
+  xy: 652, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pick_silver
+  rotate: false
+  xy: 522, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pick_silver
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 32
+stone
+  rotate: false
+  xy: 652, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_browniron
+  rotate: false
+  xy: 782, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_coal
+  rotate: false
+  xy: 652, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_diamond
+  rotate: false
+  xy: 782, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_dirt
+  rotate: false
+  xy: 912, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_gold
+  rotate: false
+  xy: 782, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_grass
+  rotate: false
+  xy: 912, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_iron
+  rotate: false
+  xy: 1042, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_silver
+  rotate: false
+  xy: 912, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sword_silver
+  rotate: false
+  xy: 1042, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+trunk_bottom
+  rotate: false
+  xy: 1172, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+trunk_mid
+  rotate: false
+  xy: 1042, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 1172, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+sprites.pack2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+actors/female_arm
+  rotate: false
+  xy: 2, 2
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+actors/female_body
+  rotate: false
+  xy: 1591, 1196
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+actors/female_head
+  rotate: false
+  xy: 2, 70
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+actors/female_leg
+  rotate: false
+  xy: 191, 169
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+actors/hand_pick_silver
+  rotate: false
+  xy: 2, 144
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+actors/hand_sword_silver
+  rotate: false
+  xy: 1468, 1174
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+actors/skeleton_arm
+  rotate: false
+  xy: 82, 76
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+actors/skeleton_body
+  rotate: false
+  xy: 1468, 1112
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+actors/skeleton_head
+  rotate: false
+  xy: 125, 161
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+actors/skeleton_leg
+  rotate: false
+  xy: 1468, 1054
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+actors/testplayer
+  rotate: false
+  xy: 2, 227
+  size: 1464, 1028
+  orig: 1464, 1028
+  offset: 0, 0
+  index: -1
+actors/torch
+  rotate: false
+  xy: 1514, 1155
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+
+sprites.pack3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/Kenney Future Narrow
+  rotate: false
+  xy: 2, 504
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ui/back-to-game
+  rotate: false
+  xy: 1025, 967
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/brick_red
+  rotate: false
+  xy: 394, 472
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ui/cell
+  rotate: false
+  xy: 1924, 1984
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+ui/dirt
+  rotate: false
+  xy: 516, 619
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/exit
+  rotate: false
+  xy: 646, 698
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/exit-down
+  rotate: false
+  xy: 1025, 916
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/main-menu
+  rotate: false
+  xy: 1217, 967
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/new-game-down
+  rotate: false
+  xy: 646, 647
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/new-game-up
+  rotate: false
+  xy: 1025, 865
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/pause-panel
+  rotate: false
+  xy: 2, 2
+  size: 390, 500
+  orig: 390, 500
+  offset: 0, 0
+  index: -1
+ui/pixel_background
+  rotate: false
+  xy: 516, 749
+  size: 507, 267
+  orig: 507, 267
+  offset: 0, 0
+  index: -1
+ui/pixel_background_good
+  rotate: false
+  xy: 2, 1018
+  size: 1920, 1011
+  orig: 1920, 1011
+  offset: 0, 0
+  index: -1
+
+sprites.pack4.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+female_arm
+  rotate: false
+  xy: 2, 2
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+female_body
+  rotate: false
+  xy: 1591, 1196
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+female_head
+  rotate: false
+  xy: 2, 70
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+female_leg
+  rotate: false
+  xy: 191, 169
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+hand_pick_silver
+  rotate: false
+  xy: 2, 144
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+hand_sword_silver
+  rotate: false
+  xy: 1468, 1174
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+skeleton_arm
+  rotate: false
+  xy: 82, 76
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+skeleton_body
+  rotate: false
+  xy: 1468, 1112
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+skeleton_head
+  rotate: false
+  xy: 125, 161
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+skeleton_leg
+  rotate: false
+  xy: 1468, 1054
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+testplayer
+  rotate: false
+  xy: 2, 227
+  size: 1464, 1028
+  orig: 1464, 1028
+  offset: 0, 0
+  index: -1
+torch
+  rotate: false
+  xy: 1514, 1155
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1

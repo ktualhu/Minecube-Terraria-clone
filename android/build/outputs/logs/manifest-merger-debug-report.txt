@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:5:5-22:19
+	android:label
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:10:9-41
+	android:appCategory
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:11:9-40
+	android:isGame
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:8:9-30
+activity#com.mygdx.game.AndroidLauncher
+ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:15:13-50
+	android:label
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:16:13-107
+	android:name
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:13:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+		ADDED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml
+		INJECTED from C:\Users\cui-b\Downloads\MineCubeRemake\android\AndroidManifest.xml

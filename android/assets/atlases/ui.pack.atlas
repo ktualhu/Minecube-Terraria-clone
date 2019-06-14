@@ -1,0 +1,97 @@
+
+ui.pack.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kenney Future Narrow
+  rotate: false
+  xy: 2, 504
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+back-to-game
+  rotate: false
+  xy: 1025, 967
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+brick_red
+  rotate: false
+  xy: 394, 472
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+cell
+  rotate: false
+  xy: 1924, 1984
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+dirt
+  rotate: false
+  xy: 516, 619
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 646, 698
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+exit-down
+  rotate: false
+  xy: 1025, 916
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+main-menu
+  rotate: false
+  xy: 1217, 967
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+new-game-down
+  rotate: false
+  xy: 646, 647
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+new-game-up
+  rotate: false
+  xy: 1025, 865
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+pause-panel
+  rotate: false
+  xy: 2, 2
+  size: 390, 500
+  orig: 390, 500
+  offset: 0, 0
+  index: -1
+pixel_background
+  rotate: false
+  xy: 516, 749
+  size: 507, 267
+  orig: 507, 267
+  offset: 0, 0
+  index: -1
+pixel_background_good
+  rotate: false
+  xy: 2, 1018
+  size: 1920, 1011
+  orig: 1920, 1011
+  offset: 0, 0
+  index: -1
